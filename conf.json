@@ -1,0 +1,5 @@
+{
+    "routes": {
+        "8080": "http://archive.ubuntu.com"
+    }
+}
